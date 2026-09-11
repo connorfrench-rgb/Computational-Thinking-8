@@ -1,0 +1,5 @@
+print ("My name is Connor French")
+Print (I am From Seattle Washington)
+Print (I am 14 years old)
+Print (I have a dog named murphey)
+name=input("what is your name? Connor)
